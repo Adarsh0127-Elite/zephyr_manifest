@@ -1,6 +1,6 @@
 ## Repo Init ##
 ```bash
-repo init -u https://github.com/Witcher-Projekt/kernel_manifest.git -b pickle
+repo init -u https://github.com/NINJAHUNTER1357/kernel_manifest.git -b pickle
 ```
 ## Sync Source ##
 ```bash
