@@ -17,10 +17,10 @@
   <project path="prebuilts-master/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" clone-depth="1" remote="aosp" />
 
-  <project path="kernel-5.10" name="android_kernel_realme_mt6895" remote="github" revision="lineage-21.0" clone-depth="1" >
+  <project path="kernel-5.10" name="android_kernel_mt6895_realme" remote="github" revision="master" >
     <linkfile dest="build.config" src="build.config.oplus6895" />
   </project>
 
-  <project path="vendor" name="android_kernel_modules_oneplus_mt6895" remote="github" revision="lineage-21.0" clone-depth="1" />
+  <project path="vendor" name="android_kernel_modules_mt6895_realme" remote="github" revision="bka" />
 
 </manifest>
