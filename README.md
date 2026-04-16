@@ -1,6 +1,6 @@
 ## Repo Init ##
 ```bash
-repo init -u https://github.com/NINJAHUNTER1357/kernel_manifest.git -b bka
+repo init -u https://github.com/Adarsh0127-Elite/zephyr_manifest.git -b main
 ```
 ## Sync Source ##
 ```bash
